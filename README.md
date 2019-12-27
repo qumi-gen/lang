@@ -2,7 +2,7 @@
 
 |  機能\言語  |Python|Go|Ruby|Java|Haskell|
 |----|----|----|----|----|----|
-|変数||
+|変数|||||
 |for||
 |if|
 |switch|None||
